@@ -3,13 +3,12 @@
 ---
 
 ### Visual Resume 
-
-[Visual Resume in Power BI](https://bit.ly/3clnZqf)
+I creted this visual Resume using Power BI as part of a chanllenge of the community Storytelling With Data.
+You can find the interactive version of the resume here :[Visual Resume in Power BI](https://bit.ly/3clnZqf)
 <img src="images/Graziele_Visual_Resume.PNG?raw=true"/>
 
 ---
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
